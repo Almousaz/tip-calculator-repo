@@ -7,4 +7,4 @@
 
 ### demo
 ---
-click [here]() to see demo
+click [here](https://almousaz.github.io/tip-calculator-repo/) to see demo
